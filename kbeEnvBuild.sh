@@ -10,6 +10,7 @@ apt-get install -y wget
 apt-get install -y g++ 
 apt-get install -y gcc automake autoconf libtool make 
 apt-get install -y procps 
+apt-get install -y curl
 
 #配置mysql
 apt-get install -y libssl-dev 

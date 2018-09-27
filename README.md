@@ -15,5 +15,5 @@ Build Command
 ---------------
 Docker镜像构建命令(例如版本号为v1.1.0 , 仓库名为kbengine-mysql)：<Br/>
 
-	docker bulild --build-arg version=v1.1.0 -t kbengine-mysql .
+	docker build --build-arg version=v1.1.0 -t kbengine-mysql .
 	
